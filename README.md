@@ -1,1 +1,2 @@
-For educatinal purposes this is an example keyloggger written in C. 
+This project is intended solely for educational and research purposes. The author does not condone or support the use of keyloggers or any related software for malicious, unethical, or illegal activities.
+By using, modifying, or distributing this code, you agree to take full responsibility and comply with all applicable laws and regulations in your jurisdiction. The author is not liable for any misuse of this software.
