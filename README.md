@@ -1,2 +1,9 @@
-This project is intended solely for educational and research purposes. The author does not condone or support the use of keyloggers or any related software for malicious, unethical, or illegal activities.
-By using, modifying, or distributing this code, you agree to take full responsibility and comply with all applicable laws and regulations in your jurisdiction. The author is not liable for any misuse of this software.
+## ⚠️ Disclaimer
+
+This project, `basic_keylogger_C`, is created **strictly for educational and ethical research purposes** only.
+
+It is intended to demonstrate how keylogging works **in a controlled environment** such as a personal machine or virtual lab, and to help students and researchers understand potential security threats.
+
+> **Do not use this software on any system without explicit, informed consent. Unauthorized use may be illegal and is not supported by the author.**
+
+The author assumes no responsibility for any misuse of this code.
